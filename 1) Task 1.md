@@ -1,29 +1,10 @@
 # Qu'est-ce que la Sécurité Offensive ?
 
-<<<<<<< HEAD
 ![Image](https://raw.githubusercontent.com/Demonda64/TryHackMe/master/dd01de11-e347-4bfa-84bc-ba2549129673.webp){width="300" align="center"}
-=======
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Demonda64/TryHackMe/master/dd01de11-e347-4bfa-84bc-ba2549129673.webp" width="300">
-</div>
-
-
-
-Offensive security is the process of breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access to them.
->>>>>>> c2ba15a9ad17ecc49f6eb5ea959284e7d7dd973d
 
 La sécurité offensive est le processus de pénétration des systèmes informatiques, d'exploitation des failles logicielles et de recherche de failles dans les applications afin d'obtenir un accès non autorisé à ces systèmes.
 
-<<<<<<< HEAD
 Pour vaincre un pirate informatique, vous devez agir comme un pirate informatique, en recherchant des vulnérabilités et en recommandant des correctifs avant qu'un cybercriminel ne le fasse, comme vous le ferez dans cette salle !
-=======
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Demonda64/TryHackMe/master/ae19e10e-298d-454f-8994-a2f2ebbf4dbc.webp" width="300">
-</div>
-
-
-On the flip side, there is also defensive security, which is the process of protecting an organization's network and computer systems by analyzing and securing any potential digital threats; learn more in the digital forensics room.
->>>>>>> c2ba15a9ad17ecc49f6eb5ea959284e7d7dd973d
 
 ![Image](https://raw.githubusercontent.com/Demonda64/TryHackMe/master/ae19e10e-298d-454f-8994-a2f2ebbf4dbc.webp){width="300" align="center"}
 
