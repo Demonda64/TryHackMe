@@ -1,6 +1,10 @@
 # What is Offensive Security?
 
-[dd01de11-e347-4bfa-84bc-ba2549129673.webp](https://raw.githubusercontent.com/Demonda64/TryHackMe/master/dd01de11-e347-4bfa-84bc-ba2549129673.webp)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Demonda64/TryHackMe/master/dd01de11-e347-4bfa-84bc-ba2549129673.webp" width="300">
+</div>
+
+
 
 Offensive security is the process of breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access to them.
 
