@@ -10,6 +10,11 @@ Offensive security is the process of breaking into computer systems, exploiting 
 
 To beat a hacker, you need to behave like a hacker, finding vulnerabilities and recommending patches before a cybercriminal does, as you'll do in this room!
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Demonda64/TryHackMe/master/ae19e10e-298d-454f-8994-a2f2ebbf4dbc.webp" width="300">
+</div>
+
+
 On the flip side, there is also defensive security, which is the process of protecting an organization's network and computer systems by analyzing and securing any potential digital threats; learn more in the digital forensics room.
 
 In a defensive cyber role, you could be investigating infected computers or devices to understand how it was hacked, tracking down cybercriminals, or monitoring infrastructure for malicious activity.
